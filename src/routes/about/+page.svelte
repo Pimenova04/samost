@@ -13,4 +13,4 @@
    
     }
 </style>
-<img src=src/routes/about/RVDOQTJyBFM.jpg alt="Я с мамиными цветочками">
+
