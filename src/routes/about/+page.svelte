@@ -13,4 +13,4 @@
    
     }
 </style>
-<img src="C:\Users\User\Desktop\web-курсы\модуль 4\Пименова_4.5Сам\samost\RVDOQTJyBFM.jpg" alt="Описание изображения">
+<img src=src/routes/about/RVDOQTJyBFM.jpg alt="Я с мамиными цветочками">
