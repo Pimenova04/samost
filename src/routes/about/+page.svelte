@@ -10,8 +10,6 @@
     .bac{
     background-color:
     #e7bbf2;
-    width: 100%;
-    height: 56vh;
-    margin: -205px auto;
+   
     }
 </style>
